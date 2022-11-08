@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Items
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Paredes
+    uniqueID: 1697524407
+    locked: 0
+  - name: Piso
+    uniqueID: 1100950007
+    locked: 0
+  - name: Piso Exterior Detalles
+    uniqueID: 3597467665
+    locked: 0
+  - name: Decoracion exterior
+    uniqueID: 3196225691
+    locked: 0
+  - name: Detalles Techo 3
+    uniqueID: 3907415199
+    locked: 0
+  - name: Detalles Techo 2
+    uniqueID: 2307087909
+    locked: 0
+  - name: Detalles Techo 4
+    uniqueID: 432000559
+    locked: 0
+  - name: Muebles
+    uniqueID: 1111020485
+    locked: 0
+  - name: Detalles techo
+    uniqueID: 251608831
+    locked: 0
+  - name: Decoracion Interior
+    uniqueID: 3292287439
+    locked: 0
+  - name: Personaje
+    uniqueID: 3196788265
+    locked: 0
+  - name: Platos
+    uniqueID: 3064157453
+    locked: 0
